@@ -1,13 +1,12 @@
-<div align="center">
-  <!-- 建议替换为你的真实学术头像或更正式的Memoji -->
+
   <div align="center">
   <img 
     src="pro_avatar.png"
-    width="100"
-    height="100"
+    width="120"
     style="border-radius:50%;"
   >
 </div>
+
   <h1>Hi there, I'm Yi Fan (Evan) 👋</h1>
   <p>
     <strong>B.Sc. in Mathematics and Applied Mathematics</strong><br>

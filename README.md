@@ -1,7 +1,7 @@
 
   <div align="center">
   <img 
-    src="pro_avatar.png"
+    src="pro_avatar.jpg"
     width="120"
     style="border-radius:50%;"
   >

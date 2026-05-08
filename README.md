@@ -15,7 +15,8 @@
   <p>
     📍 Sepang, Malaysia | 🎓 Class of 2027 | 📊 GPA: 3.83/4.0 (Major: 3.89/4.0) | 🌟 ENFP-A
   </p>
-
+> **I am actively seeking postgraduate research opportunities (Master's/Ph.D.) for Fall 2027.**
+> Currently applying to programs at HKUST (Guangzhou) and CUHK (Shenzhen), with a strong interest in Statistical Data Science, Quantitative Finance, and Machine Learning.
   <a href="mailto:MAT2309456@xmu.edu.my"><img src="https://img.shields.io/badge/Email-Academic-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/fan-yi-21b9302a6"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
@@ -88,14 +89,13 @@ My core interest lies in applying **Statistical Learning Methods** and **Mathema
 </details>
 
 ---
-
-## 📈 GitHub Activity
-
+## 📷 Beyond Academics
+Life isn't just about stochastic analysis and code. Here is what I do when I close my laptop:
+- **Urban Exploration & Photography:** I love cycling and utilizing metro systems across different cities to document urban layouts and capture fleeting street moments. 
+- **Analog Productivity:** I am an avid user of the Traveler's Notebook system for physical journaling, blending creative expression with academic planning.
+- **Mentorship & Education:** Whether it's guiding my younger cousin academically or sharing IELTS listening/reading strategies, I find immense joy in helping others grow.
+- <a href="https://drive.google.com/file/d/1n6U82EoMOB7VHWNGHGeEkjqlGtushHzC/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculum_Vitae-232F3E?style=flat-square&logo=read-the-docs&logoColor=white" alt="CV"/></a>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Yi Fan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yiwan233&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Yi Fan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yiwan233&layout=compact&theme=dracula&langs_count=8&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img src="https://profile-counter.glitch.me/Yiwan233/count.svg" alt="Visitor Count" />
 </p>
+

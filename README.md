@@ -21,8 +21,8 @@
     <tr>
       <td>
         <div align="center">
-          <h3>🚀 Actively seeking Master's/Ph.D. opportunities for Fall 2027</h3>
-          <p>Targeting <b>HKUST (GZ)</b> & <b>CUHK (SZ)</b> | Research Focus: <i>Statistical Data Science, Quant Finance & ML</i></p>
+          <h3>🚀 Actively seeking Master's/M.Phil. opportunities for Fall 2027</h3>
+<p>Targeting <b>HKUST (GZ)</b> & <b>CUHK (SZ)</b> | Research Focus: <i>Statistical Data Science & ML</i></p>
           <!-- 将联系方式和简历前置，方便教授和HR直接点击 -->
           <a href="mailto:MAT2309456@xmu.edu.my"><img src="https://img.shields.io/badge/Email-Academic-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
           <a href="https://www.linkedin.com/in/fan-yi-21b9302a6"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
